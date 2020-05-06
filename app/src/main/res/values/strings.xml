@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SplashScreen</string>
+    <string name="loading">Loading...</string>
+    <string name="countfield">CountField</string>
+</resources>
